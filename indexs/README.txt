@@ -1,0 +1,1 @@
+This folder will hodl search index
